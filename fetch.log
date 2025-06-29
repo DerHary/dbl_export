@@ -1,0 +1,5 @@
+Fetch log for 2025-06-29 10:41:59
+[2025-06-29 10:41:59] blacklist.txt ← https://dbl.aschi.at/blacklist.txt.php (HTTP 200, 11083913 bytes)
+[2025-06-29 10:42:01] blacklist.hosts.txt ← https://dbl.aschi.at/blacklist.txt.hosts.php (HTTP 200, 15353997 bytes)
+[2025-06-29 10:42:02] blacklist.csv ← https://dbl.aschi.at/blacklist.txt.csv.php (HTTP 200, 27167683 bytes)
+[2025-06-29 10:42:04] blacklist.abp.txt ← https://dbl.aschi.at/blacklist.txt.ublock.php (HTTP 200, 12685287 bytes)
