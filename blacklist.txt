@@ -17942,7 +17942,9 @@ abetterpay.com
 abetting.net
 abf08405454.chefs-kitchen.co.uk
 abf77420f8.com
+abf9a92a132203c964dfab9a7b305fb2e25f0f4c3071f6a68310371bb087118.us-e.prod.service.minerva.devices.a2z.com
 abf9a92a132203c964dfab9a7b305fb2e25f0f4c3071f6a68310371bb087118.us-ea.prod.service.minerva.devices.a2z.com
+abf9a92a132203c964dfab9a7b305fb2e25f0f4c3071f6a68310371bb087118.us-eas.prod.service.minerva.devices.a2z.com
 abf9a92a132203c964dfab9a7b305fb2e25f0f4c3071f6a68310371bb087118.us-east-1.prod.service.minerva.devices.a2z.com
 abf9a92a132203c964dfab9a7b305fb2e25f0f4c3071f6a68310371bb087118.us-east.prod.service.minerva.devices.a2z.com
 abfahost.com
@@ -22191,6 +22193,7 @@ adnotebook.com
 adnplans.com
 adnx.de
 adnxs1.com
+adnz.co
 ado.delfi.ee
 ado.icorp.ro
 adobe-analytics-dc.belastingdienst.nl
@@ -88959,6 +88962,7 @@ browser-notification.icu
 browser-searching.com
 browser-updater.yandex.net
 browser.events.data.msn.cn
+browser.events.data.msn.com
 browser.events.data.trafficmanager.net
 browser.gamingqogs.life
 browser.sensorbuqnn.pro
@@ -123005,6 +123009,7 @@ d839.despachodeabogadosmcr.com
 d83b4b0f1ea12e5e2e00b4db52010662.twojedom.pl
 d83b71513157073879bc7f65a1fefefe.serswise.pl
 d84074.24houcryptowatcher.com
+d847870f4ec40488ed2885eed96be12602541c5d87644532d2a6abd4593a4a9.us-east-1.prod.service.minerva.devices.a2z.com
 d84e37ab9e.e55971de17.com
 d85735.24houcryptowatcher.com
 d867x8xq12ag.cloudfront.net
@@ -477754,6 +477759,7 @@ wlknmoep686ditvt28e2rskq.zonesfit.com
 wlmarketing.com
 wlmik0tk19in59k93b2kcmi0.truegossipradar.com
 wln8a5embc36n1h6j2tg2kpi.craftscoot.com
+wlnewid.aniview.com
 wlngcblb1u2n12cv2c3u419o.furnituremagical.com
 wlnqi.stanrichard.com
 wlodarczykkasia.sebastianwrona.warszawa.pl
