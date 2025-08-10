@@ -1,5 +1,5 @@
 # aschi.at Blacklist (hosts format)
-# Updated: 2025-08-09 04:16:03
+# Updated: 2025-08-10 04:16:03
 
 0.0.0.0 0-0-0-0-0-0-0-0-0-0-0-0-0-20-0-0-0-0-0-0-0-0-0-0-0-0-0.info
 0.0.0.0 0-0-0-0-0-0-0-0-0-0-0-0-0-26-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -122947,6 +122947,7 @@
 0.0.0.0 d7a4d0579f7ec1ccf5897a1b163a1609.dopla.com.pl
 0.0.0.0 d7a6rv.webwave.dev
 0.0.0.0 d7ac869ef39324573bc18fca59a10524.puoli.pl
+0.0.0.0 d7ae3d206ce5366b0f0105dc74e8b013274baf9c15fd9588c12a576fa3ac95c.us-east-1.prod.service.minerva.devices.a2z.com
 0.0.0.0 d7b1dbb64d61d7f5095caf03d07c466f.fijsaw.pl
 0.0.0.0 d7b4oen68ez9x.cloudfront.net
 0.0.0.0 d7b5167520.40aliegro.fun
@@ -132433,6 +132434,7 @@
 0.0.0.0 dev.tradx.top
 0.0.0.0 dev.trdechat.top
 0.0.0.0 dev.virtualearth.net
+0.0.0.0 dev.visualwebsiteoptimizer.com
 0.0.0.0 dev.wordpress-developer.us
 0.0.0.0 dev.y-english.cn
 0.0.0.0 dev1.eutradepeopl.top
@@ -201482,6 +201484,7 @@
 0.0.0.0 ib-ofnight.xyz
 0.0.0.0 ib-ofpo.xyz
 0.0.0.0 ib-ofraf.xyz
+0.0.0.0 ib.adnxs.com
 0.0.0.0 ib.airbank.chiyouup.com
 0.0.0.0 ib.bzot.top
 0.0.0.0 ib.egod.lat
@@ -383513,6 +383516,7 @@
 0.0.0.0 secure.care5alea.com
 0.0.0.0 secure.cart8draw.com
 0.0.0.0 secure.cavy9soho.com
+0.0.0.0 secure.cdn.fastclick.net
 0.0.0.0 secure.chase.com
 0.0.0.0 secure.ches5sort.com
 0.0.0.0 secure.chip2gift.com
@@ -455183,6 +455187,7 @@
 0.0.0.0 upsecure.xiaoneinei.shop
 0.0.0.0 upsecure.zbidhs.shop
 0.0.0.0 upsell123.com
+0.0.0.0 upsellit.com
 0.0.0.0 upsellman.com
 0.0.0.0 upservice-eu.com
 0.0.0.0 upservice-track.com
@@ -465636,6 +465641,7 @@
 0.0.0.0 vitalpriva.pro
 0.0.0.0 vitals.easyspirit.com
 0.0.0.0 vitals.ninewest.com
+0.0.0.0 vitals.vercel-insights.com
 0.0.0.0 vitalselfpt.com
 0.0.0.0 vitalsignsandlettering.com
 0.0.0.0 vitalsleepwarranty.com
@@ -515721,6 +515727,7 @@
 0.0.0.0 www.ups-trackingexpress.com.cplemaire.net
 0.0.0.0 www.ups-trackingship.com
 0.0.0.0 www.ups.pcosts.com
+0.0.0.0 www.upsellit.com
 0.0.0.0 www.upsocial-media.com
 0.0.0.0 www.upspaketexpress.com
 0.0.0.0 www.upstirreds.xyz
@@ -532544,6 +532551,7 @@
 0.0.0.0 zn.uzwl.lat
 0.0.0.0 zn0lxkzethotizctx-bahn.siteintercept.qualtrics.com
 0.0.0.0 zn1.sobpa.cfd
+0.0.0.0 zn2urz2y6qlhgivi2-eurowingsdigital.siteintercept.qualtrics.com
 0.0.0.0 zn3.vrk2.lat
 0.0.0.0 zn4.y22n.lat
 0.0.0.0 znacapital.com

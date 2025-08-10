@@ -1,5 +1,5 @@
 ! Title: aschi.at Domain Blacklist
-! Last updated: 2025-08-09 04:16:05
+! Last updated: 2025-08-10 04:16:05
 ! Expires: 1 day
 ! Homepage: https://aschi.at
 
@@ -122949,6 +122949,7 @@
 ||d7a4d0579f7ec1ccf5897a1b163a1609.dopla.com.pl^
 ||d7a6rv.webwave.dev^
 ||d7ac869ef39324573bc18fca59a10524.puoli.pl^
+||d7ae3d206ce5366b0f0105dc74e8b013274baf9c15fd9588c12a576fa3ac95c.us-east-1.prod.service.minerva.devices.a2z.com^
 ||d7b1dbb64d61d7f5095caf03d07c466f.fijsaw.pl^
 ||d7b4oen68ez9x.cloudfront.net^
 ||d7b5167520.40aliegro.fun^
@@ -132435,6 +132436,7 @@
 ||dev.tradx.top^
 ||dev.trdechat.top^
 ||dev.virtualearth.net^
+||dev.visualwebsiteoptimizer.com^
 ||dev.wordpress-developer.us^
 ||dev.y-english.cn^
 ||dev1.eutradepeopl.top^
@@ -201484,6 +201486,7 @@
 ||ib-ofnight.xyz^
 ||ib-ofpo.xyz^
 ||ib-ofraf.xyz^
+||ib.adnxs.com^
 ||ib.airbank.chiyouup.com^
 ||ib.bzot.top^
 ||ib.egod.lat^
@@ -383515,6 +383518,7 @@
 ||secure.care5alea.com^
 ||secure.cart8draw.com^
 ||secure.cavy9soho.com^
+||secure.cdn.fastclick.net^
 ||secure.chase.com^
 ||secure.ches5sort.com^
 ||secure.chip2gift.com^
@@ -455185,6 +455189,7 @@
 ||upsecure.xiaoneinei.shop^
 ||upsecure.zbidhs.shop^
 ||upsell123.com^
+||upsellit.com^
 ||upsellman.com^
 ||upservice-eu.com^
 ||upservice-track.com^
@@ -465638,6 +465643,7 @@
 ||vitalpriva.pro^
 ||vitals.easyspirit.com^
 ||vitals.ninewest.com^
+||vitals.vercel-insights.com^
 ||vitalselfpt.com^
 ||vitalsignsandlettering.com^
 ||vitalsleepwarranty.com^
@@ -515723,6 +515729,7 @@
 ||www.ups-trackingexpress.com.cplemaire.net^
 ||www.ups-trackingship.com^
 ||www.ups.pcosts.com^
+||www.upsellit.com^
 ||www.upsocial-media.com^
 ||www.upspaketexpress.com^
 ||www.upstirreds.xyz^
@@ -532546,6 +532553,7 @@
 ||zn.uzwl.lat^
 ||zn0lxkzethotizctx-bahn.siteintercept.qualtrics.com^
 ||zn1.sobpa.cfd^
+||zn2urz2y6qlhgivi2-eurowingsdigital.siteintercept.qualtrics.com^
 ||zn3.vrk2.lat^
 ||zn4.y22n.lat^
 ||znacapital.com^
