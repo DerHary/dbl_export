@@ -1,5 +1,5 @@
 ! Title: aschi.at Domain Blacklist
-! Last updated: 2025-08-25 04:16:05
+! Last updated: 2025-08-26 04:16:04
 ! Expires: 1 day
 ! Homepage: https://aschi.at
 
@@ -455189,7 +455189,6 @@
 ||upsecure.xiaoneinei.shop^
 ||upsecure.zbidhs.shop^
 ||upsell123.com^
-||upsellit.com^
 ||upsellman.com^
 ||upservice-eu.com^
 ||upservice-track.com^
@@ -515729,7 +515728,6 @@
 ||www.ups-trackingexpress.com.cplemaire.net^
 ||www.ups-trackingship.com^
 ||www.ups.pcosts.com^
-||www.upsellit.com^
 ||www.upsocial-media.com^
 ||www.upspaketexpress.com^
 ||www.upstirreds.xyz^
