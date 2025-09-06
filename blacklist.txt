@@ -11276,6 +11276,7 @@
 764537konto-aktualizacja.ernies.pl
 764594756e82fb73e5374a76c573a20c.maxgro.pl
 76487543768.weebly.com
+764cdc0eab7137467211272fa539f1260d1bf2e71bcf6ff3bdc960f5c16aa14.us-east-1.prod.service.minerva.devices.a2z.com
 765093.com
 7651e962acd9bf5966d84e5e3f11bac5.puoli.pl
 765269dalej-kodsms.ernies.pl
@@ -88965,6 +88966,7 @@ browser.events.data.msn.cn
 browser.events.data.msn.com
 browser.events.data.trafficmanager.net
 browser.gamingqogs.life
+browser.pipe.aria.microsoft.com
 browser.sensorbuqnn.pro
 browser.services
 browserbleach.com
@@ -108620,6 +108622,7 @@ collector-hpn.cliqz.com
 collector-hpn.ghostery.net
 collector-hpn.privacy.ghostery.net
 collector-pxdojv695v.protechts.net
+collector-pxdojv695v.px-cloud.net
 collector-pxebumdlwe.px-cdn.net
 collector-pxebumdlwe.px-cloud.net
 collector-pxebumdlwe.pxchk.net
@@ -111001,6 +111004,7 @@ config.claspws.tv
 config.edge.skype.com
 config.edge.skype.com.trafficmanager.net
 config.emb-api.com
+config.fp.measure.office.com
 config.jpush.cn
 config.uca.cloud.unity3d.com
 config2.cheatmyvegas.com
@@ -410108,6 +410112,7 @@ static.intentarget.com
 static.itrack.it
 static.jampp.com
 static.kellartv.com
+static.klaviyo.com
 static.konnectads.com
 static.kremsondigital.com
 static.ksbeforebu-serving.com
@@ -454910,8 +454915,10 @@ uplitwickr.com
 upload-4ever.com
 upload-news.com
 upload-widget.cloudinary.com
+upload.fp.measure.office.com
 upload.luckyorange.net
 upload2.bbox.wtf
+upload2.fp.measure.office.com
 uploadinter.net
 uploadmix.net
 uploads.codesandbox.io
