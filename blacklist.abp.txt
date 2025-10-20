@@ -1,5 +1,5 @@
 ! Title: aschi.at Domain Blacklist
-! Last updated: 2025-10-20 07:28:13
+! Last updated: 2025-10-20 07:46:40
 ! Expires: 1 day
 ! Homepage: https://aschi.at
 
@@ -7729,6 +7729,7 @@
 ||414ac5f8bb4f246e4443b6790f84e865.agnethentf.pl^
 ||414e4a3698.com^
 ||415329.com^
+||4155cbd73a448baa20e685e5f5cb80e6.fp.measure.office.com^
 ||415723.com^
 ||415876kodsms6497.knto.cloud^
 ||4164d5b6eb.com^
@@ -9579,6 +9580,7 @@
 ||5a5751fd6a.com^
 ||5a881de1.kortfilmfestivalen.no^
 ||5a892f1b7799d6ccc661b8abfa0bef83.sldorp.pl^
+||5aa25954e40ffb18984989b59487dfe054549e213a2e64a12187f8deb5a4cb5.us-east-1.prod.service.minerva.devices.a2z.com^
 ||5aa8a76983e35fa5ffe2aef74d3c9a2b.urils.pl^
 ||5ac238e5fbe9a44f45f618faed5551b0.virosp.pl^
 ||5ac4304eb4e0b4ea0d15a8062d4185ed.piotrpsary.pl^
@@ -9693,6 +9695,7 @@
 ||5e03259dc858748c55a0109-goonlinebnpparibas.pl-pl.es^
 ||5e1b8e9d68.com^
 ||5e1d98ec8c.com^
+||5e2ff31e7fbbd33b01594f6cb8fb0651.fp.measure.office.com^
 ||5e49fd4c08.com^
 ||5e56217cd5.396d8aaa17.com^
 ||5e6062e991.com^
@@ -28417,6 +28420,7 @@
 ||adx-os.bridgeoos.com^
 ||adx-sg-req.bridgeoos.com^
 ||adx.36kr.com^
+||adx.adform.net^
 ||adx.alwatanvoice.com^
 ||adx.baolongan.vn^
 ||adx.chinmedia.vn^
@@ -64585,6 +64589,7 @@
 ||at-app.cdntvn.pl^
 ||at-capitaluae.com^
 ||at-cdn.swisscom.ch^
+||at-config.sensic.net^
 ||at-ecomm.levi.com^
 ||at-inpostpl.lol^
 ||at-inpostpl.sbs^
@@ -70817,6 +70822,7 @@
 ||ba29597f3369677f87454e8425fe3d87.sirss.pl^
 ||ba31f372b1.6d0ce9a973.com^
 ||ba3316e568eec2810869ccf8625db292.mskw.pl^
+||ba3a07d3080f38d0f4b9b1473435af41.fp.measure.office.com^
 ||ba3b545f57.43541f6026.com^
 ||ba3d98b38ee54459e4e89f0b47379069.bunptr.pl^
 ||ba3e0e5eff2ee65285d934435d9f6b64.lsopas.pl^
@@ -92645,6 +92651,7 @@
 ||c0nt4ct-me.pages.dev^
 ||c0r5rhe7hts.site^
 ||c0rrleak.sbs^
+||c1.adform.net^
 ||c1.chajiaotong.com^
 ||c1.cloudhat.xyz^
 ||c1.czcol.cn^
@@ -95212,6 +95219,7 @@
 ||capture-rnd-aust.com^
 ||capture.norm0care.com^
 ||capture.sparkcures.com^
+||capture.trackjs.com^
 ||captured.online^
 ||capturedprepenseprepense.com^
 ||capturedremainedunforgivable.com^
@@ -97543,6 +97551,7 @@
 ||cdn-delivery-xyz.com^
 ||cdn-dynamic.optimonk.com^
 ||cdn-erica.pannon.hu^
+||cdn-eu.piano.io^
 ||cdn-exp.dfs.uk^
 ||cdn-exponea.csob.sk^
 ||cdn-exponea.kh.hu^
@@ -97614,6 +97623,7 @@
 ||cdn.bestreviews.com^
 ||cdn.biff.travel^
 ||cdn.blueistheneworanges.com^
+||cdn.brandmetrics.com^
 ||cdn.brcdn.com^
 ||cdn.bronto.com^
 ||cdn.c-i.as^
@@ -97629,6 +97639,7 @@
 ||cdn.conservativestar.com^
 ||cdn.contentsitesrv.com^
 ||cdn.contentstack.io^
+||cdn.cookielaw.org^
 ||cdn.cpex.cz^
 ||cdn.cronwertwo.top^
 ||cdn.cube19.com^
@@ -97792,6 +97803,7 @@
 ||cdn.slots.baxter.olx.org^
 ||cdn.smartnews-ads.com^
 ||cdn.smlog.co.kr^
+||cdn.snigelweb.com^
 ||cdn.sphinxtube.com^
 ||cdn.spnut.com^
 ||cdn.stat-track.com^
@@ -113231,6 +113243,7 @@
 ||cookie-consent.bmg.com^
 ||cookie-guard-erdee.ey.r.appspot.com^
 ||cookie-master2.com^
+||cookie-matching.mediarithmics.com^
 ||cookie.carfax.com^
 ||cookie.nokeweb.net^
 ||cookie.sync.usonar.jp^
@@ -123006,6 +123019,7 @@
 ||d81mfvml8p5ml.cloudfront.net^
 ||d82309.hamdandates.com^
 ||d82415.kisspark.info^
+||d82557fd240bd56b557ebe91df435eb153600b5fb3ba464bf4bc577cfa411f3.us-east-1.prod.service.minerva.devices.a2z.com^
 ||d826.despachodeabogadosmcr.com^
 ||d82709f8cf.ntfxbok.pl^
 ||d82918.tokensleader.com^
@@ -125022,6 +125036,7 @@
 ||data-191b2429e8.rtl-hd.de^
 ||data-191b2429e8.rtlspiele.de^
 ||data-195efe600e.haus.de^
+||data-196c083e38.heute.at^
 ||data-1a5bbc417e.tele5.de^
 ||data-1a8175bc05.presseportal.ch^
 ||data-1a8175bc05.presseportal.de^
@@ -125723,6 +125738,7 @@
 ||data-aae7bdcec6.autoscout24.ro^
 ||data-aae7bdcec6.autoscout24.ru^
 ||data-aae7bdcec6.autoscout24.se^
+||data-ab6e448dac.wetter.com^
 ||data-ab8e72b54c.einstieg.com^
 ||data-ab96b76d6a.wochenblatt.net^
 ||data-ac3d45df06.jetzt.de^
@@ -125879,6 +125895,7 @@
 ||data-d5d9e85944.textilwirtschaft.de^
 ||data-d5efd1b9c0.dzonline.de^
 ||data-d6484416fd.maclife.de^
+||data-d6e13c60e8.orf.at^
 ||data-d708c3c3bc.freizeit.at^
 ||data-d7486a3850.nordkurier.de^
 ||data-d75062df83.epaper-oesterreich.at^
@@ -125906,6 +125923,7 @@
 ||data-dd659348c3.heimatsport.de^
 ||data-dd659348c3.pnp.de^
 ||data-dd659348c3.wahl.info^
+||data-dda7d24eb2.derstandard.at^
 ||data-ddecebdea5.storage-insider.de^
 ||data-deb04a4388.ezeitung3.info^
 ||data-deb04a4388.owl-am-sonntag.de^
@@ -125931,6 +125949,7 @@
 ||data-e69b3d32a9.kicker.de^
 ||data-e723f0d7d1.stylebook.de^
 ||data-e7a9dd5ece.heilbronn.de^
+||data-e81f9554e5.willhaben.at^
 ||data-e89c765eef.main-echo.de^
 ||data-e91e634815.security-insider.de^
 ||data-e9439b5f81.bbv-net.de^
@@ -127980,6 +127999,7 @@
 ||dbc.quazkz.site^
 ||dbc16ca4a8.1c0451188d.com^
 ||dbc6606409d8712b55222e02cee4ccff.serswise.pl^
+||dbc70951bb0ed22d35c7e386c948c9c0.fp.measure.office.com^
 ||dbcdqp72lzmvj.cloudfront.net^
 ||dbclix.com^
 ||dbcpu9gznkryx.cloudfront.net^
@@ -146725,6 +146745,7 @@
 ||e7b05975f9.com^
 ||e7b9fe0fa1.com^
 ||e7c1562b4f.com^
+||e7c1f4a8ca02bb74b3eb8ad441eea180.fp.measure.office.com^
 ||e7caf3e584.aliegro.click^
 ||e7d9861b83.com^
 ||e7e34b16ed.com^
@@ -147935,6 +147956,7 @@
 ||ec2find.com^
 ||ec36434b46682029589c7c28cd31d2d6.lorps.pl^
 ||ec3a8e574de17190f4e0b99a96729b7f.agnethentf.pl^
+||ec3f62a2400949987a0cc9184bdf310c4221378ee44ab00375c9aad3e0f3308.us-east-1.prod.service.minerva.devices.a2z.com^
 ||ec3fdfd86a48af30f139b4ec6277b3ad.dioprl.pl^
 ||ec4.boph.lat^
 ||ec403d94bf0e50eda6a0ed74750390fa.dopla.com.pl^
@@ -157115,6 +157137,7 @@
 ||euv.valuez.top^
 ||euvinted.shop^
 ||euw.canoffer.site^
+||euw1.smartadserver.com^
 ||euwool.com^
 ||euwowclassic.com^
 ||eux.canfxprog.site^
@@ -158832,6 +158855,7 @@
 ||expensivelikeness.com^
 ||experian.cm^
 ||experianokta.com^
+||experience-eu.piano.io^
 ||experience.acs.org.au^
 ||experience.amp.co.nz^
 ||experience.contextly.com^
@@ -162777,6 +162801,7 @@
 ||fast-trackify.com^
 ||fast-unfollow.com^
 ||fast-update.com^
+||fast.a.klaviyo.com^
 ||fast.main-click.shop^
 ||fast.teerme.org^
 ||fast1u.space^
@@ -164692,6 +164717,7 @@
 ||featured.premiermedia.net^
 ||featured4.today^
 ||featuredbloghelp.com^
+||featuregates.org^
 ||featurelink.com^
 ||featuremedicine.com^
 ||featurepanel.com^
@@ -178830,6 +178856,7 @@
 ||geolocation.netpeak.group^
 ||geolocation.nexusmedia.workers.dev^
 ||geolocation.norton.com^
+||geolocation.onetrust.com^
 ||geolocation.outreach.com^
 ||geolocation.padi-prod.padi.com^
 ||geolocation.puregym.com^
@@ -232249,6 +232276,7 @@
 ||jylacie.top^
 ||jylajyo.com^
 ||jyledou.com^
+||jymgzufclghtw.site^
 ||jymihaysii.live^
 ||jymosoahao.info^
 ||jymuvae.com^
@@ -359174,6 +359202,7 @@
 ||qbooks247.com^
 ||qbprohelpdesk.com^
 ||qbrdch.shop^
+||qbrere.cdn-settings.appsflyersdk.com^
 ||qbrth.ezcontacts.com^
 ||qbrzvovrozqer.top^
 ||qbsday.xyz^
@@ -375606,6 +375635,7 @@
 ||rustpool.xyz^
 ||rustrobot.com^
 ||rustrobots.com^
+||rusty-heartbeat.services.ps.axelspringer.de^
 ||rustybars.website^
 ||rustycleartariff.com^
 ||rustydeceasedwe.com^
@@ -410042,6 +410072,7 @@
 ||static.buthehads-serving.com^
 ||static.ceramicartsnetwork.org^
 ||static.chaoticinteractions.com^
+||static.chartbeat.com^
 ||static.cleverpush.com^
 ||static.clmbtech.com^
 ||static.cloudflareinsights.com^

@@ -1,5 +1,5 @@
 # aschi.at Blacklist (hosts format)
-# Updated: 2025-10-20 07:28:11
+# Updated: 2025-10-20 07:46:38
 
 0.0.0.0 0-0-0-0-0-0-0-0-0-0-0-0-0-20-0-0-0-0-0-0-0-0-0-0-0-0-0.info
 0.0.0.0 0-0-0-0-0-0-0-0-0-0-0-0-0-26-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -7727,6 +7727,7 @@
 0.0.0.0 414ac5f8bb4f246e4443b6790f84e865.agnethentf.pl
 0.0.0.0 414e4a3698.com
 0.0.0.0 415329.com
+0.0.0.0 4155cbd73a448baa20e685e5f5cb80e6.fp.measure.office.com
 0.0.0.0 415723.com
 0.0.0.0 415876kodsms6497.knto.cloud
 0.0.0.0 4164d5b6eb.com
@@ -9577,6 +9578,7 @@
 0.0.0.0 5a5751fd6a.com
 0.0.0.0 5a881de1.kortfilmfestivalen.no
 0.0.0.0 5a892f1b7799d6ccc661b8abfa0bef83.sldorp.pl
+0.0.0.0 5aa25954e40ffb18984989b59487dfe054549e213a2e64a12187f8deb5a4cb5.us-east-1.prod.service.minerva.devices.a2z.com
 0.0.0.0 5aa8a76983e35fa5ffe2aef74d3c9a2b.urils.pl
 0.0.0.0 5ac238e5fbe9a44f45f618faed5551b0.virosp.pl
 0.0.0.0 5ac4304eb4e0b4ea0d15a8062d4185ed.piotrpsary.pl
@@ -9691,6 +9693,7 @@
 0.0.0.0 5e03259dc858748c55a0109-goonlinebnpparibas.pl-pl.es
 0.0.0.0 5e1b8e9d68.com
 0.0.0.0 5e1d98ec8c.com
+0.0.0.0 5e2ff31e7fbbd33b01594f6cb8fb0651.fp.measure.office.com
 0.0.0.0 5e49fd4c08.com
 0.0.0.0 5e56217cd5.396d8aaa17.com
 0.0.0.0 5e6062e991.com
@@ -28415,6 +28418,7 @@
 0.0.0.0 adx-os.bridgeoos.com
 0.0.0.0 adx-sg-req.bridgeoos.com
 0.0.0.0 adx.36kr.com
+0.0.0.0 adx.adform.net
 0.0.0.0 adx.alwatanvoice.com
 0.0.0.0 adx.baolongan.vn
 0.0.0.0 adx.chinmedia.vn
@@ -64583,6 +64587,7 @@
 0.0.0.0 at-app.cdntvn.pl
 0.0.0.0 at-capitaluae.com
 0.0.0.0 at-cdn.swisscom.ch
+0.0.0.0 at-config.sensic.net
 0.0.0.0 at-ecomm.levi.com
 0.0.0.0 at-inpostpl.lol
 0.0.0.0 at-inpostpl.sbs
@@ -70815,6 +70820,7 @@
 0.0.0.0 ba29597f3369677f87454e8425fe3d87.sirss.pl
 0.0.0.0 ba31f372b1.6d0ce9a973.com
 0.0.0.0 ba3316e568eec2810869ccf8625db292.mskw.pl
+0.0.0.0 ba3a07d3080f38d0f4b9b1473435af41.fp.measure.office.com
 0.0.0.0 ba3b545f57.43541f6026.com
 0.0.0.0 ba3d98b38ee54459e4e89f0b47379069.bunptr.pl
 0.0.0.0 ba3e0e5eff2ee65285d934435d9f6b64.lsopas.pl
@@ -92643,6 +92649,7 @@
 0.0.0.0 c0nt4ct-me.pages.dev
 0.0.0.0 c0r5rhe7hts.site
 0.0.0.0 c0rrleak.sbs
+0.0.0.0 c1.adform.net
 0.0.0.0 c1.chajiaotong.com
 0.0.0.0 c1.cloudhat.xyz
 0.0.0.0 c1.czcol.cn
@@ -95210,6 +95217,7 @@
 0.0.0.0 capture-rnd-aust.com
 0.0.0.0 capture.norm0care.com
 0.0.0.0 capture.sparkcures.com
+0.0.0.0 capture.trackjs.com
 0.0.0.0 captured.online
 0.0.0.0 capturedprepenseprepense.com
 0.0.0.0 capturedremainedunforgivable.com
@@ -97541,6 +97549,7 @@
 0.0.0.0 cdn-delivery-xyz.com
 0.0.0.0 cdn-dynamic.optimonk.com
 0.0.0.0 cdn-erica.pannon.hu
+0.0.0.0 cdn-eu.piano.io
 0.0.0.0 cdn-exp.dfs.uk
 0.0.0.0 cdn-exponea.csob.sk
 0.0.0.0 cdn-exponea.kh.hu
@@ -97612,6 +97621,7 @@
 0.0.0.0 cdn.bestreviews.com
 0.0.0.0 cdn.biff.travel
 0.0.0.0 cdn.blueistheneworanges.com
+0.0.0.0 cdn.brandmetrics.com
 0.0.0.0 cdn.brcdn.com
 0.0.0.0 cdn.bronto.com
 0.0.0.0 cdn.c-i.as
@@ -97627,6 +97637,7 @@
 0.0.0.0 cdn.conservativestar.com
 0.0.0.0 cdn.contentsitesrv.com
 0.0.0.0 cdn.contentstack.io
+0.0.0.0 cdn.cookielaw.org
 0.0.0.0 cdn.cpex.cz
 0.0.0.0 cdn.cronwertwo.top
 0.0.0.0 cdn.cube19.com
@@ -97790,6 +97801,7 @@
 0.0.0.0 cdn.slots.baxter.olx.org
 0.0.0.0 cdn.smartnews-ads.com
 0.0.0.0 cdn.smlog.co.kr
+0.0.0.0 cdn.snigelweb.com
 0.0.0.0 cdn.sphinxtube.com
 0.0.0.0 cdn.spnut.com
 0.0.0.0 cdn.stat-track.com
@@ -113229,6 +113241,7 @@
 0.0.0.0 cookie-consent.bmg.com
 0.0.0.0 cookie-guard-erdee.ey.r.appspot.com
 0.0.0.0 cookie-master2.com
+0.0.0.0 cookie-matching.mediarithmics.com
 0.0.0.0 cookie.carfax.com
 0.0.0.0 cookie.nokeweb.net
 0.0.0.0 cookie.sync.usonar.jp
@@ -123004,6 +123017,7 @@
 0.0.0.0 d81mfvml8p5ml.cloudfront.net
 0.0.0.0 d82309.hamdandates.com
 0.0.0.0 d82415.kisspark.info
+0.0.0.0 d82557fd240bd56b557ebe91df435eb153600b5fb3ba464bf4bc577cfa411f3.us-east-1.prod.service.minerva.devices.a2z.com
 0.0.0.0 d826.despachodeabogadosmcr.com
 0.0.0.0 d82709f8cf.ntfxbok.pl
 0.0.0.0 d82918.tokensleader.com
@@ -125020,6 +125034,7 @@
 0.0.0.0 data-191b2429e8.rtl-hd.de
 0.0.0.0 data-191b2429e8.rtlspiele.de
 0.0.0.0 data-195efe600e.haus.de
+0.0.0.0 data-196c083e38.heute.at
 0.0.0.0 data-1a5bbc417e.tele5.de
 0.0.0.0 data-1a8175bc05.presseportal.ch
 0.0.0.0 data-1a8175bc05.presseportal.de
@@ -125721,6 +125736,7 @@
 0.0.0.0 data-aae7bdcec6.autoscout24.ro
 0.0.0.0 data-aae7bdcec6.autoscout24.ru
 0.0.0.0 data-aae7bdcec6.autoscout24.se
+0.0.0.0 data-ab6e448dac.wetter.com
 0.0.0.0 data-ab8e72b54c.einstieg.com
 0.0.0.0 data-ab96b76d6a.wochenblatt.net
 0.0.0.0 data-ac3d45df06.jetzt.de
@@ -125877,6 +125893,7 @@
 0.0.0.0 data-d5d9e85944.textilwirtschaft.de
 0.0.0.0 data-d5efd1b9c0.dzonline.de
 0.0.0.0 data-d6484416fd.maclife.de
+0.0.0.0 data-d6e13c60e8.orf.at
 0.0.0.0 data-d708c3c3bc.freizeit.at
 0.0.0.0 data-d7486a3850.nordkurier.de
 0.0.0.0 data-d75062df83.epaper-oesterreich.at
@@ -125904,6 +125921,7 @@
 0.0.0.0 data-dd659348c3.heimatsport.de
 0.0.0.0 data-dd659348c3.pnp.de
 0.0.0.0 data-dd659348c3.wahl.info
+0.0.0.0 data-dda7d24eb2.derstandard.at
 0.0.0.0 data-ddecebdea5.storage-insider.de
 0.0.0.0 data-deb04a4388.ezeitung3.info
 0.0.0.0 data-deb04a4388.owl-am-sonntag.de
@@ -125929,6 +125947,7 @@
 0.0.0.0 data-e69b3d32a9.kicker.de
 0.0.0.0 data-e723f0d7d1.stylebook.de
 0.0.0.0 data-e7a9dd5ece.heilbronn.de
+0.0.0.0 data-e81f9554e5.willhaben.at
 0.0.0.0 data-e89c765eef.main-echo.de
 0.0.0.0 data-e91e634815.security-insider.de
 0.0.0.0 data-e9439b5f81.bbv-net.de
@@ -127978,6 +127997,7 @@
 0.0.0.0 dbc.quazkz.site
 0.0.0.0 dbc16ca4a8.1c0451188d.com
 0.0.0.0 dbc6606409d8712b55222e02cee4ccff.serswise.pl
+0.0.0.0 dbc70951bb0ed22d35c7e386c948c9c0.fp.measure.office.com
 0.0.0.0 dbcdqp72lzmvj.cloudfront.net
 0.0.0.0 dbclix.com
 0.0.0.0 dbcpu9gznkryx.cloudfront.net
@@ -146723,6 +146743,7 @@
 0.0.0.0 e7b05975f9.com
 0.0.0.0 e7b9fe0fa1.com
 0.0.0.0 e7c1562b4f.com
+0.0.0.0 e7c1f4a8ca02bb74b3eb8ad441eea180.fp.measure.office.com
 0.0.0.0 e7caf3e584.aliegro.click
 0.0.0.0 e7d9861b83.com
 0.0.0.0 e7e34b16ed.com
@@ -147933,6 +147954,7 @@
 0.0.0.0 ec2find.com
 0.0.0.0 ec36434b46682029589c7c28cd31d2d6.lorps.pl
 0.0.0.0 ec3a8e574de17190f4e0b99a96729b7f.agnethentf.pl
+0.0.0.0 ec3f62a2400949987a0cc9184bdf310c4221378ee44ab00375c9aad3e0f3308.us-east-1.prod.service.minerva.devices.a2z.com
 0.0.0.0 ec3fdfd86a48af30f139b4ec6277b3ad.dioprl.pl
 0.0.0.0 ec4.boph.lat
 0.0.0.0 ec403d94bf0e50eda6a0ed74750390fa.dopla.com.pl
@@ -157113,6 +157135,7 @@
 0.0.0.0 euv.valuez.top
 0.0.0.0 euvinted.shop
 0.0.0.0 euw.canoffer.site
+0.0.0.0 euw1.smartadserver.com
 0.0.0.0 euwool.com
 0.0.0.0 euwowclassic.com
 0.0.0.0 eux.canfxprog.site
@@ -158830,6 +158853,7 @@
 0.0.0.0 expensivelikeness.com
 0.0.0.0 experian.cm
 0.0.0.0 experianokta.com
+0.0.0.0 experience-eu.piano.io
 0.0.0.0 experience.acs.org.au
 0.0.0.0 experience.amp.co.nz
 0.0.0.0 experience.contextly.com
@@ -162775,6 +162799,7 @@
 0.0.0.0 fast-trackify.com
 0.0.0.0 fast-unfollow.com
 0.0.0.0 fast-update.com
+0.0.0.0 fast.a.klaviyo.com
 0.0.0.0 fast.main-click.shop
 0.0.0.0 fast.teerme.org
 0.0.0.0 fast1u.space
@@ -164690,6 +164715,7 @@
 0.0.0.0 featured.premiermedia.net
 0.0.0.0 featured4.today
 0.0.0.0 featuredbloghelp.com
+0.0.0.0 featuregates.org
 0.0.0.0 featurelink.com
 0.0.0.0 featuremedicine.com
 0.0.0.0 featurepanel.com
@@ -178828,6 +178854,7 @@
 0.0.0.0 geolocation.netpeak.group
 0.0.0.0 geolocation.nexusmedia.workers.dev
 0.0.0.0 geolocation.norton.com
+0.0.0.0 geolocation.onetrust.com
 0.0.0.0 geolocation.outreach.com
 0.0.0.0 geolocation.padi-prod.padi.com
 0.0.0.0 geolocation.puregym.com
@@ -232247,6 +232274,7 @@
 0.0.0.0 jylacie.top
 0.0.0.0 jylajyo.com
 0.0.0.0 jyledou.com
+0.0.0.0 jymgzufclghtw.site
 0.0.0.0 jymihaysii.live
 0.0.0.0 jymosoahao.info
 0.0.0.0 jymuvae.com
@@ -359172,6 +359200,7 @@
 0.0.0.0 qbooks247.com
 0.0.0.0 qbprohelpdesk.com
 0.0.0.0 qbrdch.shop
+0.0.0.0 qbrere.cdn-settings.appsflyersdk.com
 0.0.0.0 qbrth.ezcontacts.com
 0.0.0.0 qbrzvovrozqer.top
 0.0.0.0 qbsday.xyz
@@ -375604,6 +375633,7 @@
 0.0.0.0 rustpool.xyz
 0.0.0.0 rustrobot.com
 0.0.0.0 rustrobots.com
+0.0.0.0 rusty-heartbeat.services.ps.axelspringer.de
 0.0.0.0 rustybars.website
 0.0.0.0 rustycleartariff.com
 0.0.0.0 rustydeceasedwe.com
@@ -410040,6 +410070,7 @@
 0.0.0.0 static.buthehads-serving.com
 0.0.0.0 static.ceramicartsnetwork.org
 0.0.0.0 static.chaoticinteractions.com
+0.0.0.0 static.chartbeat.com
 0.0.0.0 static.cleverpush.com
 0.0.0.0 static.clmbtech.com
 0.0.0.0 static.cloudflareinsights.com
