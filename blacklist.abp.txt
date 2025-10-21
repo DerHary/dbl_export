@@ -1,5 +1,5 @@
 ! Title: aschi.at Domain Blacklist
-! Last updated: 2025-10-20 07:46:40
+! Last updated: 2025-10-21 04:16:04
 ! Expires: 1 day
 ! Homepage: https://aschi.at
 
