@@ -1,5 +1,5 @@
 ! Title: aschi.at Domain Blacklist
-! Last updated: 2025-11-08 05:16:05
+! Last updated: 2025-11-09 05:16:06
 ! Expires: 1 day
 ! Homepage: https://aschi.at
 
@@ -129769,6 +129769,7 @@
 ||deferscoldahead.com^
 ||defesacnh.com.br^
 ||defezunnee.pro^
+||deff.nelreports.net^
 ||defferruiq.com^
 ||deffuctureinsy.xyz^
 ||defi-guardian.com^
