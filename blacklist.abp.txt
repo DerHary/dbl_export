@@ -1,5 +1,5 @@
 ! Title: aschi.at Domain Blacklist
-! Last updated: 2026-01-03 05:16:05
+! Last updated: 2026-01-04 05:16:04
 ! Expires: 1 day
 ! Homepage: https://aschi.at
 
@@ -15459,6 +15459,7 @@
 ||a72467ec08.com^
 ||a72554.cetusinvestmentsbtc.com^
 ||a72fda12c4272853414ede98fb5868ff.arturivan.pl^
+||a730388e-f573-4100-b572-876509523e41-netseer-ipaddr-assoc.xy.fbcdn.net^
 ||a73093.24houcryptowatcher.com^
 ||a7380418aa8146fc5fb99e2196117163.wurp.pl^
 ||a73d.lomt.xyz^
@@ -20816,6 +20817,7 @@
 ||ad1.udn.com^
 ||ad1.ximiyouyue.com^
 ||ad123.ynet.com^
+||ad13.adfarm1.adition.com^
 ||ad14b6b1aa927786fc49cf6ecf8a322a.dopla.com.pl^
 ||ad1d3e3ede36eebbce7d82e43b23fff9.skrl.pl^
 ||ad2.bestoflakegeneva.com^
@@ -75290,6 +75292,7 @@
 ||bbd834il.de^
 ||bbda.daggoal.top^
 ||bbda.plfcaty.xyz^
+||bbdarhk9nqwbebgbx.ay.delivery^
 ||bbdb357da259dc597a6b8d94c40ab588.dopla.com.pl^
 ||bbdcontainers.co.za^
 ||bbdjdkimmd34.000webhostapp.com^
@@ -137425,6 +137428,7 @@
 ||dmp.im-apps.net^
 ||dmp.mlnone.top^
 ||dmp.sbermarketing.ru^
+||dmp.theadex.com^
 ||dmpcdn.el-mundo.net^
 ||dmpioneers.com^
 ||dmplouhjkla.firebaseapp.com^
@@ -164822,6 +164826,7 @@
 ||federalship.com^
 ||federalwatcher.com^
 ||federated-id.live.api.bbc.co.uk^
+||federatedcompute-pa.googleapis.com^
 ||federator.info^
 ||federicamilanimentalcoach.com^
 ||federico-r-figueredo.com^
@@ -175536,6 +175541,7 @@
 ||g.miaminewtimes.com^
 ||g.milftube.mobi^
 ||g.mnw.cn^
+||g.msn.com^
 ||g.newtimes.com^
 ||g.onlinetext.alucherdi.com^
 ||g.orlen.org.pl^
@@ -186782,6 +186788,7 @@
 ||gribeorlneka.net^
 ||griby-s-risovym-pyure.com^
 ||griby-s-vetchinoy.com^
+||grid-bidder.criteo.com^
 ||grid.sollefe.com^
 ||grid.thirdrail-press.com^
 ||gridanas.com^
@@ -188899,6 +188906,7 @@
 ||gwyvusam.com^
 ||gwz.asmucol.com^
 ||gwz.emanuelrzysard.com.pl^
+||gx-target-experiments-frontend-api.gx.nvidia.com^
 ||gx.gjit.top^
 ||gx.igwk.top^
 ||gx.moristre.pl^
@@ -191471,6 +191479,7 @@
 ||hb-rollcall.s3.us-east-2.amazonaws.com^
 ||hb-sgb.pl^
 ||hb.20m.es^
+||hb.adscale.de^
 ||hb.aplus.net^
 ||hb.autodesk.com^
 ||hb.avlw.top^
@@ -191549,6 +191558,7 @@
 ||hbomovie.net^
 ||hbonded.com^
 ||hboow.com^
+||hbopenbid.pubmatic.com^
 ||hborq.com^
 ||hbpsupport.com^
 ||hbreakingnewsplus.com^
@@ -199426,6 +199436,7 @@
 ||htkec.ifasy.site^
 ||htkqj.rainbowshops.com^
 ||htl.bid^
+||htlb.casalemedia.com^
 ||htlbid.com^
 ||htliaproject.com^
 ||htmail.co.uk^
@@ -204169,6 +204180,7 @@
 ||imageshake.de^
 ||imagesmx.cdscdn.com^
 ||imagesofkansascity.com^
+||imagesrv.adition.com^
 ||imagestash.pics^
 ||imagestees.com^
 ||imageunfolding.com^
@@ -349033,6 +349045,7 @@
 ||prg.activeprov.xyz^
 ||prg.fulldepne.site^
 ||prg.hr^
+||prg.smartadserver.com^
 ||prg007-aman.com^
 ||prg1.online-prog1.site^
 ||prgressiveautocareanddiagnostic.com^
@@ -384094,6 +384107,7 @@
 ||secureprofit.ru^
 ||secureprospect.info^
 ||secureptddff.weebly.com^
+||securepubads.g.doubleclick.net^
 ||securerediffupdatetem.weebly.com^
 ||secureredir.myclickfunnels.com^
 ||securerhatable.shop^
@@ -440659,6 +440673,7 @@
 ||tpbid.com^
 ||tpbstnws.com^
 ||tpbyoy8hv.top^
+||tpc.googlesyndication.com^
 ||tpchckbt.xyz^
 ||tpclasses.com^
 ||tpcserve.com^
@@ -443990,6 +444005,7 @@
 ||traffic-exchange.com^
 ||traffic-link.net^
 ||traffic-links.com^
+||traffic-nts-ip-assoc.xz.fbcdn.net^
 ||traffic-offer.com^
 ||traffic-on-steroids.com^
 ||traffic-signal-manufacturers.com^

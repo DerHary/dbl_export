@@ -1,5 +1,5 @@
 # aschi.at Blacklist (hosts format)
-# Updated: 2026-01-03 05:16:02
+# Updated: 2026-01-04 05:16:02
 
 0.0.0.0 0-0-0-0-0-0-0-0-0-0-0-0-0-20-0-0-0-0-0-0-0-0-0-0-0-0-0.info
 0.0.0.0 0-0-0-0-0-0-0-0-0-0-0-0-0-26-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -15457,6 +15457,7 @@
 0.0.0.0 a72467ec08.com
 0.0.0.0 a72554.cetusinvestmentsbtc.com
 0.0.0.0 a72fda12c4272853414ede98fb5868ff.arturivan.pl
+0.0.0.0 a730388e-f573-4100-b572-876509523e41-netseer-ipaddr-assoc.xy.fbcdn.net
 0.0.0.0 a73093.24houcryptowatcher.com
 0.0.0.0 a7380418aa8146fc5fb99e2196117163.wurp.pl
 0.0.0.0 a73d.lomt.xyz
@@ -20814,6 +20815,7 @@
 0.0.0.0 ad1.udn.com
 0.0.0.0 ad1.ximiyouyue.com
 0.0.0.0 ad123.ynet.com
+0.0.0.0 ad13.adfarm1.adition.com
 0.0.0.0 ad14b6b1aa927786fc49cf6ecf8a322a.dopla.com.pl
 0.0.0.0 ad1d3e3ede36eebbce7d82e43b23fff9.skrl.pl
 0.0.0.0 ad2.bestoflakegeneva.com
@@ -75288,6 +75290,7 @@
 0.0.0.0 bbd834il.de
 0.0.0.0 bbda.daggoal.top
 0.0.0.0 bbda.plfcaty.xyz
+0.0.0.0 bbdarhk9nqwbebgbx.ay.delivery
 0.0.0.0 bbdb357da259dc597a6b8d94c40ab588.dopla.com.pl
 0.0.0.0 bbdcontainers.co.za
 0.0.0.0 bbdjdkimmd34.000webhostapp.com
@@ -137423,6 +137426,7 @@
 0.0.0.0 dmp.im-apps.net
 0.0.0.0 dmp.mlnone.top
 0.0.0.0 dmp.sbermarketing.ru
+0.0.0.0 dmp.theadex.com
 0.0.0.0 dmpcdn.el-mundo.net
 0.0.0.0 dmpioneers.com
 0.0.0.0 dmplouhjkla.firebaseapp.com
@@ -164820,6 +164824,7 @@
 0.0.0.0 federalship.com
 0.0.0.0 federalwatcher.com
 0.0.0.0 federated-id.live.api.bbc.co.uk
+0.0.0.0 federatedcompute-pa.googleapis.com
 0.0.0.0 federator.info
 0.0.0.0 federicamilanimentalcoach.com
 0.0.0.0 federico-r-figueredo.com
@@ -175534,6 +175539,7 @@
 0.0.0.0 g.miaminewtimes.com
 0.0.0.0 g.milftube.mobi
 0.0.0.0 g.mnw.cn
+0.0.0.0 g.msn.com
 0.0.0.0 g.newtimes.com
 0.0.0.0 g.onlinetext.alucherdi.com
 0.0.0.0 g.orlen.org.pl
@@ -186780,6 +186786,7 @@
 0.0.0.0 gribeorlneka.net
 0.0.0.0 griby-s-risovym-pyure.com
 0.0.0.0 griby-s-vetchinoy.com
+0.0.0.0 grid-bidder.criteo.com
 0.0.0.0 grid.sollefe.com
 0.0.0.0 grid.thirdrail-press.com
 0.0.0.0 gridanas.com
@@ -188897,6 +188904,7 @@
 0.0.0.0 gwyvusam.com
 0.0.0.0 gwz.asmucol.com
 0.0.0.0 gwz.emanuelrzysard.com.pl
+0.0.0.0 gx-target-experiments-frontend-api.gx.nvidia.com
 0.0.0.0 gx.gjit.top
 0.0.0.0 gx.igwk.top
 0.0.0.0 gx.moristre.pl
@@ -191469,6 +191477,7 @@
 0.0.0.0 hb-rollcall.s3.us-east-2.amazonaws.com
 0.0.0.0 hb-sgb.pl
 0.0.0.0 hb.20m.es
+0.0.0.0 hb.adscale.de
 0.0.0.0 hb.aplus.net
 0.0.0.0 hb.autodesk.com
 0.0.0.0 hb.avlw.top
@@ -191547,6 +191556,7 @@
 0.0.0.0 hbomovie.net
 0.0.0.0 hbonded.com
 0.0.0.0 hboow.com
+0.0.0.0 hbopenbid.pubmatic.com
 0.0.0.0 hborq.com
 0.0.0.0 hbpsupport.com
 0.0.0.0 hbreakingnewsplus.com
@@ -199424,6 +199434,7 @@
 0.0.0.0 htkec.ifasy.site
 0.0.0.0 htkqj.rainbowshops.com
 0.0.0.0 htl.bid
+0.0.0.0 htlb.casalemedia.com
 0.0.0.0 htlbid.com
 0.0.0.0 htliaproject.com
 0.0.0.0 htmail.co.uk
@@ -204167,6 +204178,7 @@
 0.0.0.0 imageshake.de
 0.0.0.0 imagesmx.cdscdn.com
 0.0.0.0 imagesofkansascity.com
+0.0.0.0 imagesrv.adition.com
 0.0.0.0 imagestash.pics
 0.0.0.0 imagestees.com
 0.0.0.0 imageunfolding.com
@@ -349031,6 +349043,7 @@
 0.0.0.0 prg.activeprov.xyz
 0.0.0.0 prg.fulldepne.site
 0.0.0.0 prg.hr
+0.0.0.0 prg.smartadserver.com
 0.0.0.0 prg007-aman.com
 0.0.0.0 prg1.online-prog1.site
 0.0.0.0 prgressiveautocareanddiagnostic.com
@@ -384092,6 +384105,7 @@
 0.0.0.0 secureprofit.ru
 0.0.0.0 secureprospect.info
 0.0.0.0 secureptddff.weebly.com
+0.0.0.0 securepubads.g.doubleclick.net
 0.0.0.0 securerediffupdatetem.weebly.com
 0.0.0.0 secureredir.myclickfunnels.com
 0.0.0.0 securerhatable.shop
@@ -440657,6 +440671,7 @@
 0.0.0.0 tpbid.com
 0.0.0.0 tpbstnws.com
 0.0.0.0 tpbyoy8hv.top
+0.0.0.0 tpc.googlesyndication.com
 0.0.0.0 tpchckbt.xyz
 0.0.0.0 tpclasses.com
 0.0.0.0 tpcserve.com
@@ -443988,6 +444003,7 @@
 0.0.0.0 traffic-exchange.com
 0.0.0.0 traffic-link.net
 0.0.0.0 traffic-links.com
+0.0.0.0 traffic-nts-ip-assoc.xz.fbcdn.net
 0.0.0.0 traffic-offer.com
 0.0.0.0 traffic-on-steroids.com
 0.0.0.0 traffic-signal-manufacturers.com
