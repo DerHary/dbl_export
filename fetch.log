@@ -1,5 +1,5 @@
-Fetch log for 2026-03-04 06:16:02
-[2026-03-04 06:16:03] blacklist.txt ← https://dbl.aschi.at/blacklist.txt.php (HTTP 200, 11086559 bytes)
-[2026-03-04 06:16:03] blacklist.hosts.txt ← https://dbl.aschi.at/blacklist.txt.hosts.php (HTTP 200, 15357211 bytes)
-[2026-03-04 06:16:04] blacklist.csv ← https://dbl.aschi.at/blacklist.txt.csv.php (HTTP 200, 27172359 bytes)
-[2026-03-04 06:16:05] blacklist.abp.txt ← https://dbl.aschi.at/blacklist.txt.ublock.php (HTTP 200, 12688146 bytes)
+Fetch log for 2026-03-05 06:16:02
+[2026-03-05 06:16:02] blacklist.txt ← https://dbl.aschi.at/blacklist.txt.php (HTTP 200, 11086559 bytes)
+[2026-03-05 06:16:03] blacklist.hosts.txt ← https://dbl.aschi.at/blacklist.txt.hosts.php (HTTP 200, 15357211 bytes)
+[2026-03-05 06:16:05] blacklist.csv ← https://dbl.aschi.at/blacklist.txt.csv.php (HTTP 200, 27172359 bytes)
+[2026-03-05 06:16:05] blacklist.abp.txt ← https://dbl.aschi.at/blacklist.txt.ublock.php (HTTP 200, 12688146 bytes)
