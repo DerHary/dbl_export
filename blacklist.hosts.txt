@@ -1,5 +1,5 @@
 # aschi.at Blacklist (hosts format)
-# Updated: 2026-08-21 04:16:02
+# Updated: 2026-08-22 04:16:03
 
 0.0.0.0 0-0-0-0-0-0-0-0-0-0-0-0-0-20-0-0-0-0-0-0-0-0-0-0-0-0-0.info
 0.0.0.0 0-0-0-0-0-0-0-0-0-0-0-0-0-26-0-0-0-0-0-0-0-0-0-0-0-0-0.info
@@ -514635,6 +514635,7 @@
 0.0.0.0 www.topcrtbusinness.com
 0.0.0.0 www.topcryptoapplication.com
 0.0.0.0 www.topcryptooffering.com
+0.0.0.0 www.topdm.net
 0.0.0.0 www.topdogkicks.com
 0.0.0.0 www.topfinblogs.com
 0.0.0.0 www.topfivevideos.com

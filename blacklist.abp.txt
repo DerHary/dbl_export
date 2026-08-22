@@ -1,5 +1,5 @@
 ! Title: aschi.at Domain Blacklist
-! Last updated: 2026-08-21 04:16:05
+! Last updated: 2026-08-22 04:16:06
 ! Expires: 1 day
 ! Homepage: https://aschi.at
 
@@ -514637,6 +514637,7 @@
 ||www.topcrtbusinness.com^
 ||www.topcryptoapplication.com^
 ||www.topcryptooffering.com^
+||www.topdm.net^
 ||www.topdogkicks.com^
 ||www.topfinblogs.com^
 ||www.topfivevideos.com^
